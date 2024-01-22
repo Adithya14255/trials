@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Sports-managent/IPS"
+		},
+		{
+			"path": "../../playlist_manager"
+		},
+		{
+			"path": "../../trials"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "playlist_manager"
+	}
+}
